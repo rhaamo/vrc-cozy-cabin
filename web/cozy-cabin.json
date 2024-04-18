@@ -1,4 +1,4 @@
-[
-  {"title": "test 1", "url": "https://rhaamo.github.io/vrc-stringloading-stuff/VRChat_2024-04-01_21-47-50.468_3840x2160.png"},
-  {"title": "test 2", "url": "https://rhaamo.github.io/vrc-stringloading-stuff/VRChat_2024-03-03_22-13-43.853_3840x2160.png"}
-]
+{
+  "VRChat_2024-04-01_21-47-50.468_3840x2160.png": "test 1",
+  "VRChat_2024-03-03_22-13-43.853_3840x2160.png": "test 2"
+}
